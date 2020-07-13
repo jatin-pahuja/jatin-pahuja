@@ -1,5 +1,5 @@
 
-![](https://media.giphy.com/media/3o6Yg6gk00QtuKBgTS/source.gif)  
+![](https://github.com/jatin-pahuja/jatin-pahuja/blob/master/new.gif)  
 
 
 - 🔭 I’m currently working on - Twitter sentiment Analysis
