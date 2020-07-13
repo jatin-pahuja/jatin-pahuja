@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jatin-pahuja/jatin-pahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media.giphy.com/media/3o6Yg6gk00QtuKBgTS/source.gif)
