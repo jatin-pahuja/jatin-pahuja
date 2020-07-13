@@ -1,17 +1,16 @@
 
+![](https://media.giphy.com/media/3o6Yg6gk00QtuKBgTS/source.gif)  
 
-<!--
-**jatin-pahuja/jatin-pahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on - Twitter sentiment Analysis
+- 🌱 I’m currently learning - R 
+- 👯 I’m looking to collaborate on - Web Development Projects
+- 🤔 I’m looking for help with - Android 
+- 💬 Ask me about - Anything
+- 📫 How to reach me - jatinphuja16@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Earth is not flat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://media.giphy.com/media/3o6Yg6gk00QtuKBgTS/source.gif)
+
+
+
