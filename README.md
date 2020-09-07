@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <i><b>Let's connect and chat!</b></i>
+  <i><b>Let's connect!</b></i>
 
   <p align="center">
     <a href="https://twitter.com/farziphotograph" alt="Twitter"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
